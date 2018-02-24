@@ -1751,7 +1751,7 @@ body {
 }
 .cid-qKxzRDLSGE .nav-link:hover,
 .cid-qKxzRDLSGE .dropdown-item:hover {
-  color: #c1c1c1 !important;
+  color: #009446 !important;
 }
 .cid-qKxzREsNz7 {
   background-color: #009446;
@@ -1762,6 +1762,9 @@ body {
   text-align: center;
 }
 .cid-qKxzREsNz7 H1 {
+  color: #ffffff;
+}
+.cid-qKxzREsNz7 DIV {
   color: #ffffff;
 }
 .cid-qKy2jvxLHG {
@@ -1836,6 +1839,17 @@ body {
 }
 .cid-qKy2jvxLHG H2 {
   color: #009446;
+}
+.cid-qKB509CrwS {
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background-color: #333333;
+}
+.cid-qKB509CrwS .mbr-section-subtitle {
+  color: #ffffff;
+}
+.cid-qKB509CrwS B {
+  color: #ffffff;
 }
 .cid-qKB0GzGKtM {
   padding-top: 30px;
