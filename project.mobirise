@@ -45,8 +45,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "RePaks",
+        "meta_descr": "Recyclable Packing Supplies",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
